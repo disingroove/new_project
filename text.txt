@@ -1,1 +1,3 @@
 First text to stage and commit a repository.
+
+Second write in changging username and email address.
